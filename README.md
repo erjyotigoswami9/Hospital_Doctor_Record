@@ -24,7 +24,7 @@
                 <ul>
                     <li>Create Doctor's Data</li>
                     <li>Delete Doctor's Data</li>
-                    <li>Doctor'ss data displayed in tabular form</li>
+                    <li>Doctor's data displayed in tabular form</li>
                     <li>Using HTML for structure, CSS for design and Javascript for scripting purpose</li>
                 </ul>
             </p>
